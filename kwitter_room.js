@@ -1,4 +1,4 @@
-cconst firebaseConfig = {
+const firebaseConfig = {
       apiKey: "AIzaSyAuMP8gDYE2lzkOEBU67qVb_X1QQdFkRFs",
       authDomain: "redglobe-base.firebaseapp.com",
       databaseURL:"https://redglobe-base-default-rtdb.firebaseio.com/",
