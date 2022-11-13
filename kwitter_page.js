@@ -1,14 +1,14 @@
 //YOUR FIREBASE LINKS
 const firebaseConfig = {
-      apiKey: "AIzaSyCPMnAY0rdyuXdyyzIEbkLHT2EPkhhXgrc",
-      authDomain: "redglobe-database.firebaseapp.com",
-      databaseURL: "https://redglobe-database-default-rtdb.firebaseio.com",
-      projectId: "redglobe-database",
-      storageBucket: "redglobe-database.appspot.com",
-      messagingSenderId: "1638043135",
-      appId: "1:1638043135:web:a17badecf495a73c8dabca",
-      measurementId: "G-DB95J562FE"
+      apiKey: "AIzaSyAuMP8gDYE2lzkOEBU67qVb_X1QQdFkRFs",
+      authDomain: "redglobe-base.firebaseapp.com",
+      databaseURL:"https://redglobe-base-default-rtdb.firebaseio.com/",
+      projectId: "redglobe-base",
+      storageBucket: "redglobe-base.appspot.com",
+      messagingSenderId: "515569703116",
+      appId: "1:515569703116:web:e3b7881714fc442c4cca69"
     };
+
     firebase.initializeApp(firebaseConfig);
     romname = localStorage.getItem("Th");
     function send()
